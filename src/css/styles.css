@@ -1,0 +1,17 @@
+#banner {
+  font-family: "Orbitron", sans-serif;
+  background-color: black;
+  background-image: url("../images/global.jpg");
+  background-size: cover;
+  text-shadow: 3px 3px #000000;
+  color: white;
+}
+
+nav {
+  font-family: "Cinzel", serif;
+}
+
+#copy {
+  font-family: "Cinzel", serif;
+  font-variant: small-caps;
+}
